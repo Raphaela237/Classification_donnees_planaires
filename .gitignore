@@ -1,0 +1,36 @@
+# Fichiers Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environnements virtuels
+venv/
+.env
+.venv/
+env/
+*.venv
+
+# Fichiers de logs et outputs
+logs/
+*.log
+*.out
+
+# Configurations spécifiques à l'IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers temporaires
+*.tmp
+*.cache
+.DS_Store
+
+# Dépendances installées
+*.egg-info/
+dist/
+build/
+
+# Spécifique à Streamlit (cache de l'application)
+.streamlit/
