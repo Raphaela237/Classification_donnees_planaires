@@ -1,3 +1,5 @@
+![Image de l'application](img.png)
+
 # Classification de Données Planaires avec Réseau de Neurones
 
 Ce projet illustre l'utilisation d'un réseau de neurones pour classifier un jeu de données synthétique représentant une structure en spirale. L'objectif est de comparer la performance d'un modèle de régression logistique avec celle d'un réseau de neurones à une couche cachée.
